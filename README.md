@@ -9,7 +9,10 @@ Italian, German, French, Portuguese, Simplified Chinese, Japanese and Korean.
 (Windows 10 and 11, 64-bit). The installer isn't code-signed yet, so Windows may show a SmartScreen
 warning: choose "More info", then "Run anyway".
 
-Installed copies check this page each time they start and offer new versions.
+**Android (beta):** get the APK from [Universal Converter for Android 0.5 beta](https://github.com/christzouv/universal-converter/releases/tag/android-v0.5-beta)
+(Android 10 or newer, English and Greek), open it on your phone and allow the install when asked.
+
+Installed Windows copies check this page each time they start and offer new versions.
 
 This repository only holds the installers. Universal Converter is closed-source software
 © 2026 Christos Tzouvaras - see the licence agreement shown by the installer. The open-source
