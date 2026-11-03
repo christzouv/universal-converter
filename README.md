@@ -10,6 +10,7 @@ Italian, German, French, Portuguese, Simplified Chinese, Japanese and Korean.
 [Releases](https://github.com/christzouv/universal-converter/releases/latest) and run it
 (Windows 10 and 11, 64-bit). The installer isn't code-signed yet, so Windows may show a SmartScreen
 warning: choose "More info", then "Run anyway".
+[VirusTotal scan of the 2.1 installer](https://www.virustotal.com/gui/file/4314b40182f487d46f01e116c18b7912070db1e9c2330824e7b6a03192d2ef47).
 
 **Mac (beta):** get `Universal-Converter-1.0-beta-mac-arm64.dmg` from [Universal Converter for Mac 1.0 beta](https://github.com/christzouv/universal-converter/releases/tag/mac-v1.0-beta)
 (Apple silicon: M1 or newer, macOS 12 or later). Open it and drag Universal Converter into Applications. The app isn't
