@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://christzouv.github.io/universal-converter/sitemap.xml
