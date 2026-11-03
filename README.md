@@ -9,10 +9,14 @@ Italian, German, French, Portuguese, Simplified Chinese, Japanese and Korean.
 (Windows 10 and 11, 64-bit). The installer isn't code-signed yet, so Windows may show a SmartScreen
 warning: choose "More info", then "Run anyway".
 
+**Mac (beta):** get `Universal-Converter-1.0-beta-mac-arm64.dmg` from [Universal Converter for Mac 1.0 beta](https://github.com/christzouv/universal-converter/releases/tag/mac-v1.0-beta)
+(Apple silicon: M1 or newer, macOS 12 or later). Open it and drag Universal Converter into Applications. The app isn't
+signed by Apple, so the first time macOS blocks it: open System Settings > Privacy & Security and click "Open Anyway".
+
 **Android (beta):** get the APK from [Universal Converter for Android 0.5 beta](https://github.com/christzouv/universal-converter/releases/tag/android-v0.5-beta)
 (Android 10 or newer, English and Greek), open it on your phone and allow the install when asked.
 
-Installed Windows copies check this page each time they start and offer new versions.
+Installed Windows and Mac copies check this page each time they start and offer new versions.
 
 This repository only holds the installers. Universal Converter is closed-source software
 © 2026 Christos Tzouvaras - see the licence agreement shown by the installer. The open-source
