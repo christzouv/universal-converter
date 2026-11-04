@@ -14,14 +14,16 @@ The website links the [virus scan of the newest installer](https://christzouv.gi
 
 **Microsoft Store:** [Universal Converter: PDF, Video & Images](https://apps.microsoft.com/detail/9MZPJBDX706J) - installs without the SmartScreen warning and updates through the Store.
 
-**Mac (beta):** get `Universal-Converter-1.0-beta-mac-arm64.dmg` from [Universal Converter for Mac 1.0 beta](https://github.com/christzouv/universal-converter/releases/tag/mac-v1.0-beta)
-(Apple silicon: M1 or newer, macOS 12 or later). Open it and drag Universal Converter into Applications. The app isn't
-signed by Apple, so the first time macOS blocks it: open System Settings > Privacy & Security and click "Open Anyway".
+**Mac (beta):** download the Mac version from the [website](https://christzouv.github.io/universal-converter/) or the newest
+`...-mac-arm64.dmg` under [Releases](https://github.com/christzouv/universal-converter/releases) (Apple silicon: M1 or newer,
+macOS 12 or later). Open it and drag Universal Converter into Applications. The app isn't signed by Apple, so the first time
+macOS blocks it: open System Settings > Privacy & Security and click "Open Anyway".
 
-**Android (beta):** get the APK from [Universal Converter for Android 0.5 beta](https://github.com/christzouv/universal-converter/releases/tag/android-v0.5-beta)
-(Android 10 or newer, English and Greek), open it on your phone and allow the install when asked.
+**Android:** download the APK from the [website](https://christzouv.github.io/universal-converter/) or the newest
+`android-v...` release (Android 10 or newer), open it on your phone and allow the install when asked. English and Greek are
+built in; other languages can be downloaded in the app's Settings.
 
-Installed Windows and Mac copies check this page each time they start and offer new versions.
+Installed Windows and Mac copies check this page each time they start and offer new versions; the Android app checks about once a day.
 
 This repository only holds the installers. Universal Converter is closed-source software
 © 2026 Christos Tzouvaras - see the licence agreement shown by the installer. The open-source
