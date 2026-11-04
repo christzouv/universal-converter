@@ -43,6 +43,7 @@ h3 { margin: 0 0 6px; font-size: 1.2rem; }
 .btn.primary { background: var(--coral); color: var(--on-coral); border-color: var(--coral); padding: 14px 28px; font-size: 1.1rem; }
 .btn.primary:hover { background: var(--coral-hover); }
 .downloads { margin: 24px 0 8px; }
+.btn.store { padding: 13px 20px; font-size: 1rem; margin: 6px 0; }
 .downloads .note { color: var(--muted); font-size: .9rem; margin: 0 14px 0 8px; white-space: nowrap; }
 .downloads .others { margin-top: 14px; }
 .downloads .others a { font-weight: 600; }
