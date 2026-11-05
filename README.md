@@ -11,7 +11,7 @@ Italian, German, French, Portuguese, Simplified Chinese, Japanese and Korean.
 | | Newest version | All versions |
 |---|---|---|
 | **Windows** 10 and 11 (64-bit) | [Download](https://github.com/christzouv/universal-converter/releases/latest) · [Microsoft Store](https://apps.microsoft.com/detail/9MZPJBDX706J) | [Windows releases](https://github.com/christzouv/universal-converter/releases?q=%22for+Windows%22&expanded=true) |
-| **Mac** beta (Apple silicon: M1 or newer, macOS 12 or later) | [Download from the website](https://christzouv.github.io/universal-converter/) | [Mac releases](https://github.com/christzouv/universal-converter/releases?q=%22for+Mac%22&expanded=true) |
+| **Mac** (Apple silicon: M1 or newer, macOS 12 or later) | [Download from the website](https://christzouv.github.io/universal-converter/) | [Mac releases](https://github.com/christzouv/universal-converter/releases?q=%22for+Mac%22&expanded=true) |
 | **Android** 10 or newer | [Download from the website](https://christzouv.github.io/universal-converter/) | [Android releases](https://github.com/christzouv/universal-converter/releases?q=%22for+Android%22&expanded=true) |
 
 **Windows:** run `Universal-Converter-Setup-x.y.exe`. The installer isn't code-signed yet, so Windows may show a SmartScreen

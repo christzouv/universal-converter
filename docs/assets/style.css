@@ -111,3 +111,29 @@ footer { margin-top: 80px; padding: 28px 0; border-top: 1px solid var(--border);
   .brand span { display: none; }
   .bar select { max-width: 120px; }
 }
+
+/* Support page: a sticker with a beating heart, the two buttons, then the details */
+.support-page { text-align: center; max-width: 760px; }
+.support-page .crumb, .support-page .support-info { text-align: left; }
+.support-page .lead { margin: 0 auto; }
+.sticker { position: relative; display: inline-flex; flex-direction: column; align-items: center; justify-content: center;
+  width: 168px; height: 168px; margin: 18px auto 8px; border-radius: 50%; background: var(--coral); color: var(--on-coral);
+  border: 6px solid #fff; box-shadow: 0 10px 30px rgba(0, 0, 0, .45), 0 0 0 1px var(--border);
+  transform: rotate(-8deg); animation: sticker-in .7s cubic-bezier(.2, 1.4, .4, 1) both; transition: transform .3s; }
+.sticker:hover { transform: rotate(4deg) scale(1.04); }
+.sticker-heart { font-size: 64px; line-height: 1; color: #fff; animation: beat 1.6s ease-in-out .7s infinite; }
+.sticker-word { font-weight: 800; font-size: 1.05rem; letter-spacing: .04em; text-transform: uppercase; margin-top: 4px; }
+.spark { position: absolute; color: var(--coral); font-size: 18px; opacity: 0; animation: float-up 3.2s ease-out infinite; }
+.spark.s1 { left: -14px; top: 40%; animation-delay: .9s; }
+.spark.s2 { right: -18px; top: 25%; font-size: 14px; animation-delay: 1.9s; }
+.spark.s3 { right: 6px; bottom: -6px; font-size: 22px; animation-delay: 2.7s; }
+@keyframes beat { 0%, 100% { transform: scale(1); } 12% { transform: scale(1.18); } 24% { transform: scale(1); } 36% { transform: scale(1.12); } 48% { transform: scale(1); } }
+@keyframes sticker-in { from { transform: rotate(-30deg) scale(.4); opacity: 0; } to { transform: rotate(-8deg) scale(1); opacity: 1; } }
+@keyframes float-up { 0% { opacity: 0; transform: translateY(0) scale(.6); } 15% { opacity: 1; } 100% { opacity: 0; transform: translateY(-70px) scale(1.1); } }
+@media (prefers-reduced-motion: reduce) { .sticker, .sticker-heart, .spark { animation: none; } .spark { display: none; } }
+.pay-buttons { display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; margin: 28px 0 8px; }
+.btn.pay { min-width: 200px; text-align: center; }
+.support-info { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 6px 26px 14px; margin-top: 36px; }
+.support-info ul { color: var(--muted); padding-left: 20px; }
+.support-info li { margin: 8px 0; }
+.support-info h2 { margin: 18px 0 6px; }
