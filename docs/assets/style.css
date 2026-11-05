@@ -1,15 +1,9 @@
-/* Universal Converter website: the app's own colours (gui/theme.py), light and dark. */
+/* Universal Converter website: the app's own dark colours (gui/theme.py). */
 :root {
-  --coral: #E8735E; --coral-hover: #D9634E; --coral-soft: #FBE5DF; --on-coral: #fff;
-  --bg: #F5F2F0; --card: #fff; --field: #F3EFEC; --border: #E2DCD8;
-  --text: #1E1D22; --muted: #6F6A70;
-}
-@media (prefers-color-scheme: dark) {
-  :root {
-    --coral: #F28C78; --coral-hover: #E57A65; --coral-soft: #3A2825; --on-coral: #1D1517;
-    --bg: #141417; --card: #1F1F25; --field: #28282F; --border: #32323B;
-    --text: #EDEBEF; --muted: #A3A0AB;
-  }
+  color-scheme: dark;
+  --coral: #F28C78; --coral-hover: #E57A65; --coral-soft: #3A2825; --on-coral: #1D1517;
+  --bg: #141417; --card: #1F1F25; --field: #28282F; --border: #32323B;
+  --text: #EDEBEF; --muted: #A3A0AB;
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
