@@ -1,3 +1,6 @@
+// On an Android phone the Android download comes first (and bigger); computers keep Windows first.
+if (/Android/i.test(navigator.userAgent)) document.querySelectorAll(".downloads").forEach(d => d.classList.add("android"));
+
 // Every download link starts the newest file straight away (installer, .dmg, .apk), and the virus scan link
 // points at the newest installer's report. Without this script,
 // or if GitHub can't be reached, the links open the releases page instead.

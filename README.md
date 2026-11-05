@@ -1,7 +1,7 @@
 # Universal Converter
 
 Convert images, documents, videos and audio, build PDFs and pull tables into Excel - all offline,
-your files never leave your computer. A free-to-use software tool. Available in English, Greek, Spanish,
+your files never leave your device. A free-to-use software tool for Windows, Mac and Android. Available in English, Greek, Spanish,
 Italian, German, French, Portuguese, Simplified Chinese, Japanese and Korean.
 
 **Website:** https://christzouv.github.io/universal-converter/

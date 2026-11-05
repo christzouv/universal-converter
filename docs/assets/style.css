@@ -46,7 +46,14 @@ h3 { margin: 0 0 6px; font-size: 1.2rem; }
 .btn.store { padding: 13px 20px; font-size: 1rem; margin: 6px 0; }
 .downloads .note { color: var(--muted); font-size: .9rem; margin: 0 14px 0 8px; white-space: nowrap; }
 .downloads .others { margin-top: 14px; }
-.downloads .others a { font-weight: 600; }
+.downloads { display: flex; flex-direction: column; gap: 12px; }
+.dl-row { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 10px; }
+.dl-win .note { display: block; margin: 6px 0 0 8px; }
+/* On an Android phone (download.js adds .android): Android first and big, the others smaller */
+.downloads.android .dl-android { order: -1; }
+.downloads.android .dl-android .btn { padding: 14px 28px; font-size: 1.1rem; }
+.downloads.android .dl-win .btn.primary { padding: 10px 20px; font-size: 1rem; }
+.btn.primary.small { padding: 10px 20px; font-size: 1rem; min-width: 190px; text-align: center; }
 
 .points { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 40px; }
 .point, .feature, details, .support { background: var(--card); border: 1px solid var(--border); border-radius: 14px; }
@@ -85,6 +92,7 @@ footer { margin-top: 80px; padding: 28px 0; border-top: 1px solid var(--border);
   .bar select { margin-left: auto; }
   .extras { grid-template-columns: 1fr; }
   .downloads .note { white-space: normal; display: block; margin: 6px 0 10px; }
+  .dl-row .note { margin: 0 0 0 12px; }
   h1 { overflow-wrap: anywhere; }
   .wrap { padding: 0 16px; }
 }
