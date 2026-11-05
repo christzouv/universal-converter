@@ -8,6 +8,16 @@ https://christzouv.github.io/universal-converter/pt/
 https://christzouv.github.io/universal-converter/zh/
 https://christzouv.github.io/universal-converter/ja/
 https://christzouv.github.io/universal-converter/ko/
+https://christzouv.github.io/universal-converter/about.html
+https://christzouv.github.io/universal-converter/el/about.html
+https://christzouv.github.io/universal-converter/es/about.html
+https://christzouv.github.io/universal-converter/it/about.html
+https://christzouv.github.io/universal-converter/de/about.html
+https://christzouv.github.io/universal-converter/fr/about.html
+https://christzouv.github.io/universal-converter/pt/about.html
+https://christzouv.github.io/universal-converter/zh/about.html
+https://christzouv.github.io/universal-converter/ja/about.html
+https://christzouv.github.io/universal-converter/ko/about.html
 https://christzouv.github.io/universal-converter/compress-video.html
 https://christzouv.github.io/universal-converter/el/compress-video.html
 https://christzouv.github.io/universal-converter/es/compress-video.html
