@@ -2,7 +2,7 @@
 
 Convert images, documents, videos and audio, build and sign PDFs, fill in forms and pull tables into Excel - all offline,
 your files never leave your device. A free-to-use software tool for Windows, Mac and Android. Available in English, Greek, Spanish,
-Italian, German, French, Portuguese, Russian, Arabic, Hebrew, Simplified Chinese, Japanese, Korean, Tamil, Afrikaans,
+Italian, German, French, Portuguese, Polish, Russian, Arabic, Hebrew, Simplified Chinese, Japanese, Korean, Tamil, Afrikaans,
 Yoruba and Hausa.
 
 **Website:** https://christzouv.github.io/universal-converter/
