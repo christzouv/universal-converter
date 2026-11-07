@@ -1,8 +1,9 @@
 # Universal Converter
 
-Convert images, documents, videos and audio, build PDFs and pull tables into Excel - all offline,
+Convert images, documents, videos and audio, build and sign PDFs, fill in forms and pull tables into Excel - all offline,
 your files never leave your device. A free-to-use software tool for Windows, Mac and Android. Available in English, Greek, Spanish,
-Italian, German, French, Portuguese, Simplified Chinese, Japanese and Korean.
+Italian, German, French, Portuguese, Russian, Arabic, Hebrew, Simplified Chinese, Japanese, Korean, Tamil, Afrikaans,
+Yoruba and Hausa.
 
 **Website:** https://christzouv.github.io/universal-converter/
 
@@ -31,4 +32,5 @@ This repository only holds the installers. Universal Converter is closed-source 
 components it includes, with their licences and source links, are listed in
 `THIRD-PARTY-NOTICES.txt` in the installation folder.
 
-Problems or questions: [open an issue](https://github.com/christzouv/universal-converter/issues).
+Problems or questions: [open an issue](https://github.com/christzouv/universal-converter/issues), or email
+[universal.converter@outlook.com](mailto:universal.converter@outlook.com) - also for ideas and languages you'd like added.
