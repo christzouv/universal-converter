@@ -17,6 +17,7 @@ Yoruba and Hausa.
 
 **Windows:** run `Universal-Converter-Setup-x.y.exe`. The installer isn't code-signed yet, so Windows may show a SmartScreen
 warning: choose "More info", then "Run anyway". The Microsoft Store version installs without the warning and updates through the Store.
+If Windows' Smart App Control blocks the app or its video part, use the Microsoft Store version: Windows trusts it.
 The website links the [virus scan of the newest installer](https://christzouv.github.io/universal-converter/).
 
 **Mac:** open the `.dmg` and drag Universal Converter into Applications. The app isn't signed by Apple, so the first time
