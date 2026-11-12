@@ -47,6 +47,7 @@ Interface languages (18 languages): English, Greek, Spanish, Italian, German, Fr
 ## More
 - [Guide](https://github.com/christzouv/universal-converter/wiki)
 - [Privacy policy](https://christzouv.github.io/universal-converter/privacy.html): the app collects no personal information.
+- [Licence agreement](https://christzouv.github.io/universal-converter/licence.html): freeware, closed source; English text is binding.
 - [About](https://christzouv.github.io/universal-converter/about.html)
 - Contact: universal.converter@outlook.com (questions, ideas, languages people would like added); issues: https://github.com/christzouv/universal-converter/issues
 - Ελληνικά: https://christzouv.github.io/universal-converter/el/
