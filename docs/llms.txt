@@ -7,9 +7,9 @@ Universal Converter is a free-to-use desktop and mobile app by Christos Tzouvara
 ## What it does
 - Documents & PDF: Convert between PDF, Word, ODT, RTF, TXT, Markdown, HTML, EPUB, PowerPoint and Excel. Turn pages into images and combine several files into one PDF. Fonts, sizes and colours are kept. Make PDFs smaller, to the size you choose.
 - Images: Convert between JPG, PNG, WEBP, TIFF, BMP, GIF and ICO. Resize by pixels, percent or file size, combine pictures into a PDF or Word file, and read the text in pictures (OCR). PDFs can be added too: every page becomes a picture.
-- Video: Convert videos between MP4, MKV, WebM, MOV and AVI, and compress them, with AV1, H.265, H.264 or VP9. Trim, crop, rotate and resize, make GIFs, save frames as pictures, or keep just the sound as MP3, M4A, FLAC, WAV, OGG or Opus. On Android: MP4 or MKV with H.264 or H.265; trim, crop, rotate, resize, save frames, or keep the sound as M4A.
+- Video: Convert videos between MP4, MKV, WebM, MOV and AVI, and compress them, with AV1, H.265, H.264 or VP9. Trim, crop, rotate and resize, make GIFs, save frames as pictures, or keep just the sound as MP3, M4A, FLAC, WAV, OGG or Opus. On Android: MP4, MKV, WebM, MOV or GIF, or the sound as M4A, OGG or WAV; trim, crop, rotate, resize and save frames.
 - To Excel: Pull tables out of PDFs, scans and photos into Excel or CSV: bank statements, invoices, price lists. Reads Greek, English, Spanish and more than 30 other languages.
-- Sign: Sign PDFs and fill in forms. Type your name in a handwriting style, draw your signature or use a photo of it. The app finds the signature lines by itself, or you click where the signature, initials, date, text or ticks go. Sign many files at once; the originals stay untouched.
+- Sign: Sign PDFs and fill in forms. Type your name in a handwriting style, draw your signature or use a photo of it. The app finds the signature lines by itself, or you click or tap where the signature, initials, date, text or ticks go. Sign many files at once; the originals stay untouched.
 - Uses your graphics card for video when it can: usually 5 to 20 times faster.
 - Drag in whole folders: every file is converted in one go.
 - Tells you when a file belongs in another tab, and takes it there with one click.
