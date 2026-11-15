@@ -139,6 +139,7 @@ footer { margin-top: 80px; padding: 28px 0; border-top: 1px solid var(--border);
 @keyframes soft-beat { 0%, 100% { transform: scale(1); } 15% { transform: scale(1.08); } 30% { transform: scale(1); } }
 .pay-buttons { display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; margin: 28px 0 8px; }
 .btn.pay { min-width: 200px; text-align: center; }
+.pay-note { color: var(--muted); font-size: .92em; line-height: 1.6; margin: 10px auto 0; max-width: 560px; }
 .support-info { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 6px 26px 14px; margin-top: 36px; }
 .support-info ul { color: var(--muted); padding-inline-start: 20px; }
 .support-info li { margin: 8px 0; }

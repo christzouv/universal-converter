@@ -5,7 +5,7 @@
 Universal Converter is a free-to-use desktop and mobile app by Christos Tzouvaras for Windows 10 and 11 (also in the Microsoft Store), Mac with Apple silicon and Android 10 or newer. Everything runs on the user's own device: files are never uploaded, it works offline, and it has no ads, no account and no watermark.
 
 ## What it does
-- Documents & PDF: Convert between PDF, Word, ODT, RTF, TXT, Markdown, HTML, EPUB, PowerPoint and Excel. Turn pages into images and combine several files into one PDF. Fonts, sizes and colours are kept. Make PDFs smaller, to the size you choose.
+- Documents & PDF: Convert between PDF, Word, ODT, RTF, TXT, Markdown, HTML, EPUB, PowerPoint and Excel. Turn pages into images and combine several files into one PDF. Fonts, sizes and colours are kept. Make PDFs smaller, to the size you choose. Scans and filled-in forms become editable text and tables, laid out like the page.
 - Images: Convert between JPG, PNG, WEBP, TIFF, BMP, GIF and ICO. Resize by pixels, percent or file size, combine pictures into a PDF or Word file, and read the text in pictures (OCR). PDFs can be added too: every page becomes a picture.
 - Video: Convert videos between MP4, MKV, WebM, MOV and AVI, and compress them, with AV1, H.265, H.264 or VP9. Trim, crop, rotate and resize, make GIFs, save frames as pictures, or keep just the sound as MP3, M4A, FLAC, WAV, OGG or Opus. On Android: MP4, MKV, WebM, MOV or GIF, or the sound as M4A, OGG or WAV; trim, crop, rotate, resize and save frames.
 - To Excel: Pull tables out of PDFs, scans and photos into Excel or CSV: bank statements, invoices, price lists. Reads Greek, English, Spanish and more than 30 other languages.
@@ -16,7 +16,7 @@ Universal Converter is a free-to-use desktop and mobile app by Christos Tzouvara
 - Tells you about new versions; on Windows and Mac it can install them for you, digitally verified.
 - Light and dark look, to match your device.
 
-Interface languages (18 languages): English, Greek, Spanish, Italian, German, French, Portuguese, Polish, Russian, Arabic, Hebrew, Chinese, Japanese, Korean, Tamil, Afrikaans, Yoruba and Hausa.
+Interface languages (22 languages): English, Greek, Spanish, Italian, German, French, Portuguese, Polish, Russian, Arabic, Hebrew, Chinese, Japanese, Korean, Tamil, Afrikaans, Yoruba, Hausa, Hindi, Indonesian, Turkish and Vietnamese.
 
 ## Download
 - [Website with downloads for Windows, Mac and Android](https://christzouv.github.io/universal-converter/)
@@ -67,3 +67,7 @@ Interface languages (18 languages): English, Greek, Spanish, Italian, German, Fr
 - Afrikaans: https://christzouv.github.io/universal-converter/af/
 - Yorùbá: https://christzouv.github.io/universal-converter/yo/
 - Hausa: https://christzouv.github.io/universal-converter/ha/
+- हिन्दी: https://christzouv.github.io/universal-converter/hi/
+- Bahasa Indonesia: https://christzouv.github.io/universal-converter/id/
+- Türkçe: https://christzouv.github.io/universal-converter/tr/
+- Tiếng Việt: https://christzouv.github.io/universal-converter/vi/
