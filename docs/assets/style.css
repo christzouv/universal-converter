@@ -112,28 +112,54 @@ footer { margin-top: 80px; padding: 28px 0; border-top: 1px solid var(--border);
   .bar select { max-width: 120px; }
 }
 
-/* Support page: a sticker with a beating heart, the two buttons, then the details */
+/* Support page: a sticker with a beating heart and hearts bursting out from behind it, the two buttons, then the
+   details. Each heart (.spark) flies its own way: --x/--y where it ends, --s its size, --r its turn, --d its delay.
+   Reduced motion (e.g. Windows "Animation effects" off): the hearts stay and only fade in and out close by. */
 .support-page { text-align: center; max-width: 760px; }
 .support-page .crumb, .support-page .support-info { text-align: start; }
 .support-page .lead { margin: 0 auto; }
-.sticker { position: relative; display: inline-flex; flex-direction: column; align-items: center; justify-content: center;
-  width: 168px; height: 168px; margin: 18px auto 8px; border-radius: 50%; background: var(--coral); color: var(--on-coral);
-  border: 6px solid #fff; box-shadow: 0 10px 30px rgba(0, 0, 0, .45), 0 0 0 1px var(--border);
-  transform: rotate(-8deg); animation: sticker-in .7s cubic-bezier(.2, 1.4, .4, 1) backwards; transition: transform .3s; }
+.sticker-stage { position: relative; display: flex; justify-content: center; padding: 56px 0 18px; overflow-x: clip;
+  pointer-events: none; }
+.sticker { position: relative; z-index: 1; display: inline-flex; flex-direction: column; align-items: center;
+  justify-content: center; width: 168px; height: 168px; border-radius: 50%; color: var(--on-coral);
+  background: radial-gradient(circle at 32% 28%, #ffb4a3 0%, var(--coral) 46%, #e0644f 100%);
+  border: 6px solid #fff; box-shadow: 0 10px 30px rgba(0, 0, 0, .45), 0 0 34px rgba(242, 140, 120, .45), 0 0 0 1px var(--border);
+  transform: rotate(-8deg); animation: sticker-in .7s cubic-bezier(.2, 1.4, .4, 1) backwards; transition: transform .3s;
+  pointer-events: auto; }
 .sticker:hover { transform: rotate(4deg) scale(1.04); }
-.sticker-heart { font-size: 64px; line-height: 1; color: #fff; animation: beat 1.6s ease-in-out .7s infinite; }
+.sticker::after { content: ""; position: absolute; inset: -6px; border-radius: 50%; border: 3px solid #ffb4a3;
+  box-shadow: 0 0 22px 4px rgba(255, 140, 120, .7), inset 0 0 14px rgba(255, 140, 120, .5);
+  opacity: 0; animation: ring 1.6s ease-out .7s infinite; }
+.sticker-heart { font-size: 64px; line-height: 1; color: #fff; text-shadow: 0 3px 10px rgba(120, 30, 20, .35);
+  animation: beat 1.6s ease-in-out .7s infinite; }
 .sticker-word { font-weight: 800; font-size: 1.05rem; letter-spacing: .04em; text-transform: uppercase; margin-top: 4px; }
-.spark { position: absolute; color: var(--coral); font-size: 18px; opacity: 0; animation: float-up 3.2s ease-out infinite; }
-.spark.s1 { left: -14px; top: 40%; animation-delay: .9s; }
-.spark.s2 { right: -18px; top: 25%; font-size: 14px; animation-delay: 1.9s; }
-.spark.s3 { right: 6px; bottom: -6px; font-size: 22px; animation-delay: 2.7s; }
+.spark { --k: 1; position: absolute; left: 50%; top: calc(56px + 84px); width: var(--s); height: var(--s);
+  opacity: 0; background: linear-gradient(135deg, #ffb09e, #f2705c);
+  -webkit-mask: var(--heart) center / contain no-repeat; mask: var(--heart) center / contain no-repeat;
+  filter: drop-shadow(0 4px 12px rgba(255, 110, 130, .6)) brightness(1.08);
+  animation: heart-out 3.6s cubic-bezier(.16, .7, .3, 1) var(--d) infinite; }
+.spark.pink { background: linear-gradient(135deg, #ff9ec4, #ff4d8d); }
+.spark.rose { background: linear-gradient(135deg, #ffe0c2, #ff8f8f); }
+:root { --heart: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z'/%3E%3C/svg%3E"); }
+@keyframes heart-out {
+  0% { opacity: 0; transform: translate(-50%, -50%) scale(.25) rotate(0deg); }
+  10% { opacity: 1; }
+  78% { opacity: 1; }
+  100% { opacity: 0; transform: translate(calc(-50% + var(--x) * var(--k)), calc(-50% + var(--y) * var(--k))) scale(1.15) rotate(var(--r)); }
+}
 @keyframes beat { 0%, 100% { transform: scale(1); } 12% { transform: scale(1.18); } 24% { transform: scale(1); } 36% { transform: scale(1.12); } 48% { transform: scale(1); } }
+@keyframes ring { 0% { opacity: .7; transform: scale(1); } 70%, 100% { opacity: 0; transform: scale(1.45); } }
 @keyframes sticker-in { from { transform: rotate(-30deg) scale(.4); opacity: 0; } to { transform: rotate(-8deg) scale(1); opacity: 1; } }
-@keyframes float-up { 0% { opacity: 0; transform: translateY(0) scale(.6); } 15% { opacity: 1; } 100% { opacity: 0; transform: translateY(-70px) scale(1.1); } }
+@media (max-width: 520px) { .spark { --k: .62; } }
 @media (prefers-reduced-motion: reduce) {
   .sticker { animation: fade-in .8s ease-out backwards; }
+  .sticker::after { display: none; }
   .sticker-heart { animation: soft-beat 2.4s ease-in-out .8s infinite; }
-  .spark { display: none; }
+  .spark { animation: heart-calm 4.8s ease-in-out var(--d) infinite; }
+}
+@keyframes heart-calm {
+  0%, 100% { opacity: 0; transform: translate(calc(-50% + var(--x) * var(--k) * .5), calc(-50% + var(--y) * var(--k) * .5)) scale(.85) rotate(var(--r)); }
+  50% { opacity: .95; transform: translate(calc(-50% + var(--x) * var(--k) * .58), calc(-50% + var(--y) * var(--k) * .58)) scale(1) rotate(var(--r)); }
 }
 @keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
 @keyframes soft-beat { 0%, 100% { transform: scale(1); } 15% { transform: scale(1.08); } 30% { transform: scale(1); } }
