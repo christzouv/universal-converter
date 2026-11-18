@@ -46,7 +46,8 @@ h3 { margin: 0 0 6px; font-size: 1.2rem; }
 .btn.primary { background: var(--coral); color: var(--on-coral); border-color: var(--coral); padding: 14px 28px; font-size: 1.1rem; }
 .btn.primary:hover { background: var(--coral-hover); }
 .downloads { margin: 24px 0 8px; }
-.btn.store { padding: 13px 20px; font-size: 1rem; margin: 6px 0; }
+.dl-stack { display: flex; flex-direction: column; align-items: stretch; gap: 8px; width: max-content; max-width: 100%; }
+.dl-stack .btn { text-align: center; }  /* Windows and the Microsoft Store: one under the other, same colour and width */
 .downloads .note { color: var(--muted); font-size: .9rem; margin: 0 14px 0 8px; white-space: nowrap; }
 .downloads .others { margin-top: 14px; }
 .downloads { display: flex; flex-direction: column; gap: 12px; }
