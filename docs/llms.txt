@@ -19,58 +19,58 @@ Universal Converter is a free-to-use desktop and mobile app by Christos Tzouvara
 Interface languages (22 languages): English, Greek, Spanish, Italian, German, French, Portuguese, Polish, Russian, Arabic, Hebrew, Chinese, Japanese, Korean, Tamil, Afrikaans, Yoruba, Hausa, Hindi, Indonesian, Turkish and Vietnamese.
 
 ## Download
-- [Website with downloads for Windows, Mac and Android](https://christzouv.github.io/universal-converter/)
+- [Website with downloads for Windows, Mac and Android](https://getuniversalconverter.com/)
 - [Microsoft Store](https://apps.microsoft.com/detail/9MZPJBDX706J)
 - [All releases on GitHub](https://github.com/christzouv/universal-converter/releases)
 
 ## How-to pages
-- [Convert a PDF to Word](https://christzouv.github.io/universal-converter/pdf-to-word.html): Turn PDFs into editable Word documents on your own device, keeping fonts, sizes and colours.
-- [Convert Word documents to PDF](https://christzouv.github.io/universal-converter/word-to-pdf.html): Turn Word, ODT, RTF and text files into PDF on your own device, keeping fonts, sizes and colours, for free.
-- [Combine several files into one PDF](https://christzouv.github.io/universal-converter/merge-pdf.html): Merge PDFs, Word, PowerPoint and other documents into a single PDF, without uploading anything.
-- [Compress a PDF to a size you choose](https://christzouv.github.io/universal-converter/compress-pdf.html): Make a PDF smaller - for example under 500 KB or 2 MB for an email or an upload form - without uploading it anywhere.
-- [Compress a PDF to 100 KB, 200 KB or any size for online forms](https://christzouv.github.io/universal-converter/compress-pdf-to-100kb.html): Shrink scanned documents and certificates to the size an application or exam form accepts, offline and free.
-- [Convert PDF pages to JPG images](https://christzouv.github.io/universal-converter/pdf-to-jpg.html): Save every page of a PDF as a JPG or PNG picture, for slides, websites and messages, free and offline.
-- [Turn a scanned document into an editable Word file](https://christzouv.github.io/universal-converter/scan-to-word.html): Convert scanned pages, photos of documents and image-only PDFs into editable Word files with text recognition (OCR), offline.
-- [Convert pictures between JPG, PNG, WEBP and more](https://christzouv.github.io/universal-converter/webp-to-jpg.html): Turn WEBP pictures from the web into JPG or PNG, or the other way round, for free and offline.
-- [Resize pictures or shrink them to a file size](https://christzouv.github.io/universal-converter/resize-image.html): Make photos smaller by pixels, by percent or to a target file size, such as under 1 MB for a form.
-- [Resize a photo or signature to 20 KB, 50 KB or exact pixels](https://christzouv.github.io/universal-converter/resize-photo-to-20kb.html): Make a passport photo or a scanned signature fit an application form's pixel size and KB limit, offline and free.
-- [Combine photos into one PDF](https://christzouv.github.io/universal-converter/images-to-pdf.html): Put JPG, PNG and other pictures into a single PDF, in the order you choose, offline and for free.
-- [JPG to PDF under 100 KB](https://christzouv.github.io/universal-converter/jpg-to-pdf-under-100kb.html): Turn photos of documents into one small PDF that fits an upload limit, offline and free.
-- [Copy the text from a picture (OCR)](https://christzouv.github.io/universal-converter/image-to-text.html): Read the text in photos, screenshots and scans and save it as text or Word, offline. Greek, English and many more languages.
-- [Compress a video without uploading it](https://christzouv.github.io/universal-converter/compress-video.html): Make videos smaller on your own device, for free: choose the quality, keep the resolution or shrink it, and use your device's hardware for speed.
-- [Convert videos between MP4, MKV, WebM, MOV and AVI](https://christzouv.github.io/universal-converter/video-to-mp4.html): Convert almost any video to MP4, MKV, WebM, MOV or AVI: free, offline, with no size limit.
-- [Save the sound of a video as MP3](https://christzouv.github.io/universal-converter/video-to-mp3.html): Extract the audio from videos as MP3, M4A, FLAC, WAV, OGG or Opus on your own device.
-- [Make a GIF from a video](https://christzouv.github.io/universal-converter/video-to-gif.html): Turn a moment of a video into an animated GIF or WebP, offline and for free.
-- [Pull tables from a PDF into Excel](https://christzouv.github.io/universal-converter/pdf-to-excel.html): Turn bank statements, invoices and price lists in PDFs, scans or photos into Excel or CSV, on your own device.
-- [Convert a bank statement PDF to Excel](https://christzouv.github.io/universal-converter/bank-statement-to-excel.html): Turn PDF bank statements, including scanned ones, into Excel or CSV for budgeting, bookkeeping and taxes, privately on your own device.
-- [Extract tables from PDF invoices into Excel](https://christzouv.github.io/universal-converter/invoice-to-excel.html): Pull line items, quantities and prices from PDF and scanned invoices into Excel or CSV, many files at once, offline.
-- [Sign a PDF](https://christzouv.github.io/universal-converter/sign-pdf.html): Add your signature, initials and the date to PDFs on your own device: type, draw or use a picture of your signature.
-- [Fill in a PDF form](https://christzouv.github.io/universal-converter/fill-pdf-form.html): Type into PDF forms, tick boxes and add text, the date and your signature anywhere on the page, then save it as a finished PDF.
+- [Convert a PDF to Word](https://getuniversalconverter.com/pdf-to-word.html): Turn PDFs into editable Word documents on your own device, keeping fonts, sizes and colours.
+- [Convert Word documents to PDF](https://getuniversalconverter.com/word-to-pdf.html): Turn Word, ODT, RTF and text files into PDF on your own device, keeping fonts, sizes and colours, for free.
+- [Combine several files into one PDF](https://getuniversalconverter.com/merge-pdf.html): Merge PDFs, Word, PowerPoint and other documents into a single PDF, without uploading anything.
+- [Compress a PDF to a size you choose](https://getuniversalconverter.com/compress-pdf.html): Make a PDF smaller - for example under 500 KB or 2 MB for an email or an upload form - without uploading it anywhere.
+- [Compress a PDF to 100 KB, 200 KB or any size for online forms](https://getuniversalconverter.com/compress-pdf-to-100kb.html): Shrink scanned documents and certificates to the size an application or exam form accepts, offline and free.
+- [Convert PDF pages to JPG images](https://getuniversalconverter.com/pdf-to-jpg.html): Save every page of a PDF as a JPG or PNG picture, for slides, websites and messages, free and offline.
+- [Turn a scanned document into an editable Word file](https://getuniversalconverter.com/scan-to-word.html): Convert scanned pages, photos of documents and image-only PDFs into editable Word files with text recognition (OCR), offline.
+- [Convert pictures between JPG, PNG, WEBP and more](https://getuniversalconverter.com/webp-to-jpg.html): Turn WEBP pictures from the web into JPG or PNG, or the other way round, for free and offline.
+- [Resize pictures or shrink them to a file size](https://getuniversalconverter.com/resize-image.html): Make photos smaller by pixels, by percent or to a target file size, such as under 1 MB for a form.
+- [Resize a photo or signature to 20 KB, 50 KB or exact pixels](https://getuniversalconverter.com/resize-photo-to-20kb.html): Make a passport photo or a scanned signature fit an application form's pixel size and KB limit, offline and free.
+- [Combine photos into one PDF](https://getuniversalconverter.com/images-to-pdf.html): Put JPG, PNG and other pictures into a single PDF, in the order you choose, offline and for free.
+- [JPG to PDF under 100 KB](https://getuniversalconverter.com/jpg-to-pdf-under-100kb.html): Turn photos of documents into one small PDF that fits an upload limit, offline and free.
+- [Copy the text from a picture (OCR)](https://getuniversalconverter.com/image-to-text.html): Read the text in photos, screenshots and scans and save it as text or Word, offline. Greek, English and many more languages.
+- [Compress a video without uploading it](https://getuniversalconverter.com/compress-video.html): Make videos smaller on your own device, for free: choose the quality, keep the resolution or shrink it, and use your device's hardware for speed.
+- [Convert videos between MP4, MKV, WebM, MOV and AVI](https://getuniversalconverter.com/video-to-mp4.html): Convert almost any video to MP4, MKV, WebM, MOV or AVI: free, offline, with no size limit.
+- [Save the sound of a video as MP3](https://getuniversalconverter.com/video-to-mp3.html): Extract the audio from videos as MP3, M4A, FLAC, WAV, OGG or Opus on your own device.
+- [Make a GIF from a video](https://getuniversalconverter.com/video-to-gif.html): Turn a moment of a video into an animated GIF or WebP, offline and for free.
+- [Pull tables from a PDF into Excel](https://getuniversalconverter.com/pdf-to-excel.html): Turn bank statements, invoices and price lists in PDFs, scans or photos into Excel or CSV, on your own device.
+- [Convert a bank statement PDF to Excel](https://getuniversalconverter.com/bank-statement-to-excel.html): Turn PDF bank statements, including scanned ones, into Excel or CSV for budgeting, bookkeeping and taxes, privately on your own device.
+- [Extract tables from PDF invoices into Excel](https://getuniversalconverter.com/invoice-to-excel.html): Pull line items, quantities and prices from PDF and scanned invoices into Excel or CSV, many files at once, offline.
+- [Sign a PDF](https://getuniversalconverter.com/sign-pdf.html): Add your signature, initials and the date to PDFs on your own device: type, draw or use a picture of your signature.
+- [Fill in a PDF form](https://getuniversalconverter.com/fill-pdf-form.html): Type into PDF forms, tick boxes and add text, the date and your signature anywhere on the page, then save it as a finished PDF.
 
 ## More
 - [Guide](https://github.com/christzouv/universal-converter/wiki)
-- [Privacy policy](https://christzouv.github.io/universal-converter/privacy.html): the app collects no personal information.
-- [Licence agreement](https://christzouv.github.io/universal-converter/licence.html): freeware, closed source; English text is binding.
-- [About](https://christzouv.github.io/universal-converter/about.html)
+- [Privacy policy](https://getuniversalconverter.com/privacy.html): the app collects no personal information.
+- [Licence agreement](https://getuniversalconverter.com/licence.html): freeware, closed source; English text is binding.
+- [About](https://getuniversalconverter.com/about.html)
 - Contact: universal.converter@outlook.com (questions, ideas, languages people would like added); issues: https://github.com/christzouv/universal-converter/issues
-- Ελληνικά: https://christzouv.github.io/universal-converter/el/
-- Español: https://christzouv.github.io/universal-converter/es/
-- Italiano: https://christzouv.github.io/universal-converter/it/
-- Deutsch: https://christzouv.github.io/universal-converter/de/
-- Français: https://christzouv.github.io/universal-converter/fr/
-- Português: https://christzouv.github.io/universal-converter/pt/
-- Polski: https://christzouv.github.io/universal-converter/pl/
-- Русский: https://christzouv.github.io/universal-converter/ru/
-- العربية: https://christzouv.github.io/universal-converter/ar/
-- עברית: https://christzouv.github.io/universal-converter/he/
-- 简体中文: https://christzouv.github.io/universal-converter/zh/
-- 日本語: https://christzouv.github.io/universal-converter/ja/
-- 한국어: https://christzouv.github.io/universal-converter/ko/
-- தமிழ்: https://christzouv.github.io/universal-converter/ta/
-- Afrikaans: https://christzouv.github.io/universal-converter/af/
-- Yorùbá: https://christzouv.github.io/universal-converter/yo/
-- Hausa: https://christzouv.github.io/universal-converter/ha/
-- हिन्दी: https://christzouv.github.io/universal-converter/hi/
-- Bahasa Indonesia: https://christzouv.github.io/universal-converter/id/
-- Türkçe: https://christzouv.github.io/universal-converter/tr/
-- Tiếng Việt: https://christzouv.github.io/universal-converter/vi/
+- Ελληνικά: https://getuniversalconverter.com/el/
+- Español: https://getuniversalconverter.com/es/
+- Italiano: https://getuniversalconverter.com/it/
+- Deutsch: https://getuniversalconverter.com/de/
+- Français: https://getuniversalconverter.com/fr/
+- Português: https://getuniversalconverter.com/pt/
+- Polski: https://getuniversalconverter.com/pl/
+- Русский: https://getuniversalconverter.com/ru/
+- العربية: https://getuniversalconverter.com/ar/
+- עברית: https://getuniversalconverter.com/he/
+- 简体中文: https://getuniversalconverter.com/zh/
+- 日本語: https://getuniversalconverter.com/ja/
+- 한국어: https://getuniversalconverter.com/ko/
+- தமிழ்: https://getuniversalconverter.com/ta/
+- Afrikaans: https://getuniversalconverter.com/af/
+- Yorùbá: https://getuniversalconverter.com/yo/
+- Hausa: https://getuniversalconverter.com/ha/
+- हिन्दी: https://getuniversalconverter.com/hi/
+- Bahasa Indonesia: https://getuniversalconverter.com/id/
+- Türkçe: https://getuniversalconverter.com/tr/
+- Tiếng Việt: https://getuniversalconverter.com/vi/

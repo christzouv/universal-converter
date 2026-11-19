@@ -5,20 +5,20 @@ your files never leave your device. A free-to-use software tool for Windows, Mac
 Italian, German, French, Portuguese, Polish, Russian, Arabic, Hebrew, Simplified Chinese, Japanese, Korean, Tamil, Afrikaans,
 Yoruba and Hausa.
 
-**Website:** https://christzouv.github.io/universal-converter/
+**Website:** https://getuniversalconverter.com/
 
 ## Downloads
 
 | | Newest version | All versions |
 |---|---|---|
 | **Windows** 10 and 11 (64-bit) | [Download](https://github.com/christzouv/universal-converter/releases/latest) · [Microsoft Store](https://apps.microsoft.com/detail/9MZPJBDX706J) | [Windows releases](https://github.com/christzouv/universal-converter/releases?q=%22for+Windows%22&expanded=true) |
-| **Mac** (Apple silicon: M1 or newer, macOS 12 or later) | [Download from the website](https://christzouv.github.io/universal-converter/) | [Mac releases](https://github.com/christzouv/universal-converter/releases?q=%22for+Mac%22&expanded=true) |
-| **Android** 10 or newer | [Download from the website](https://christzouv.github.io/universal-converter/) | [Android releases](https://github.com/christzouv/universal-converter/releases?q=%22for+Android%22&expanded=true) |
+| **Mac** (Apple silicon: M1 or newer, macOS 12 or later) | [Download from the website](https://getuniversalconverter.com/) | [Mac releases](https://github.com/christzouv/universal-converter/releases?q=%22for+Mac%22&expanded=true) |
+| **Android** 10 or newer | [Download from the website](https://getuniversalconverter.com/) | [Android releases](https://github.com/christzouv/universal-converter/releases?q=%22for+Android%22&expanded=true) |
 
 **Windows:** run `Universal-Converter-Setup-x.y.exe`. The installer isn't code-signed yet, so Windows may show a SmartScreen
 warning: choose "More info", then "Run anyway". The Microsoft Store version installs without the warning and updates through the Store.
 If Windows' Smart App Control blocks the app or its video part, use the Microsoft Store version: Windows trusts it.
-The website links the [virus scan of the newest installer](https://christzouv.github.io/universal-converter/).
+The website links the [virus scan of the newest installer](https://getuniversalconverter.com/).
 
 **Mac:** open the `.dmg` and drag Universal Converter into Applications. The app isn't signed by Apple, so the first time
 macOS blocks it: open System Settings > Privacy & Security and click "Open Anyway".
