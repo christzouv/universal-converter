@@ -2,24 +2,24 @@
 
 > Convert images, documents, video and audio, build PDFs and pull tables into Excel on your own device. Free, no ads, no account, and your files are never uploaded.
 
-Universal Converter is a free-to-use desktop and mobile app by Christos Tzouvaras for Windows 10 and 11 (also in the Microsoft Store), Mac with Apple silicon and Android 10 or newer. Everything runs on the user's own device: files are never uploaded, it works offline, and it has no ads, no account and no watermark.
+Universal Converter is a free-to-use desktop and mobile app by Christos Tzouvaras for Windows 10 and 11 (also in the Microsoft Store), Mac with Apple silicon, 64-bit Linux and Android 10 or newer. Everything runs on the user's own device: files are never uploaded, it works offline, and it has no ads, no account and no watermark.
 
 ## What it does
-- Documents & PDF: Convert between PDF, Word, ODT, RTF, TXT, Markdown, HTML, EPUB, PowerPoint and Excel. Turn pages into images and combine several files into one PDF. Fonts, sizes and colours are kept. Make PDFs smaller, to the size you choose. Scans and filled-in forms become editable text and tables, laid out like the page.
+- Documents & PDF: Convert between PDF, Word, ODT, RTF, TXT, Markdown, HTML, EPUB, PowerPoint and Excel. Turn pages into images and combine several files into one PDF. Fonts, sizes and colours are kept. Make PDFs smaller, to the size you choose. Scans and filled-in forms become editable text and tables, laid out like the page. Tables, also without lines like on bank statements, come into Word as real tables, and old Word (.doc) and PowerPoint (.ppt) files open.
 - Images: Convert between JPG, PNG, WEBP, TIFF, BMP, GIF and ICO. Resize by pixels, percent or file size, combine pictures into a PDF or Word file, and read the text in pictures (OCR). PDFs can be added too: every page becomes a picture.
-- Video: Convert videos between MP4, MKV, WebM, MOV and AVI, and compress them, with AV1, H.265, H.264 or VP9. Trim, crop, rotate and resize, make GIFs, save frames as pictures, or keep just the sound as MP3, M4A, FLAC, WAV, OGG or Opus. On Android: MP4, MKV, WebM, MOV or GIF, or the sound as M4A, OGG or WAV; trim, crop, rotate, resize and save frames.
+- Video: Convert videos between MP4, MKV, WebM, MOV and AVI, and compress them, with AV1, H.265, H.264 or VP9. Trim, crop, rotate and resize, make GIFs, save frames as pictures, or keep just the sound as MP3, M4A, FLAC, WAV, OGG or Opus. With several videos, each one can have its own settings. On Android: MP4, MKV, WebM, MOV or GIF, or the sound as M4A, OGG or WAV; trim, crop, rotate, resize and save frames.
 - Excel: Pull tables out of PDFs, scans and photos into Excel or CSV: bank statements, invoices, price lists. Reads Greek, English, Spanish and more than 30 other languages.
 - Sign: Sign PDFs and fill in forms. Type your name in a handwriting style, draw your signature or use a photo of it. The app finds the signature lines by itself, or you click or tap where the signature, initials, date, text or ticks go. Sign many files at once; the originals stay untouched.
 - Uses your graphics card for video when it can: usually 5 to 20 times faster.
 - Drag in whole folders: every file is converted in one go.
 - Tells you when a file belongs in another tab, and takes it there with one click.
-- Tells you about new versions; on Windows and Mac it can install them for you, digitally verified.
+- Tells you about new versions; on Windows, Mac and Linux it can install them for you, digitally verified.
 - Light and dark look, to match your device.
 
-Interface languages (22 languages): English, Greek, Spanish, Italian, German, French, Portuguese, Polish, Russian, Arabic, Hebrew, Chinese, Japanese, Korean, Tamil, Afrikaans, Yoruba, Hausa, Hindi, Indonesian, Turkish and Vietnamese.
+Interface languages (34 languages): English, Greek, Spanish, Italian, German, French, Portuguese (Portugal and Brazil), Polish, Russian, Arabic, Hebrew, Chinese, Japanese, Korean, Tamil, Afrikaans, Yoruba, Hausa, Hindi, Indonesian, Turkish, Vietnamese, Swedish, Dutch, Danish, Ukrainian, Czech, Romanian, Bulgarian, Norwegian, Malay, Filipino and Swahili.
 
 ## Download
-- [Website with downloads for Windows, Mac and Android](https://getuniversalconverter.com/)
+- [Website with downloads for Windows, Mac, Linux and Android](https://getuniversalconverter.com/)
 - [Microsoft Store](https://apps.microsoft.com/detail/9MZPJBDX706J)
 - [All releases on GitHub](https://github.com/christzouv/universal-converter/releases)
 
@@ -58,7 +58,7 @@ Interface languages (22 languages): English, Greek, Spanish, Italian, German, Fr
 - Italiano: https://getuniversalconverter.com/it/
 - Deutsch: https://getuniversalconverter.com/de/
 - Français: https://getuniversalconverter.com/fr/
-- Português: https://getuniversalconverter.com/pt/
+- Português (Portugal): https://getuniversalconverter.com/pt/
 - Polski: https://getuniversalconverter.com/pl/
 - Русский: https://getuniversalconverter.com/ru/
 - العربية: https://getuniversalconverter.com/ar/
@@ -74,3 +74,15 @@ Interface languages (22 languages): English, Greek, Spanish, Italian, German, Fr
 - Bahasa Indonesia: https://getuniversalconverter.com/id/
 - Türkçe: https://getuniversalconverter.com/tr/
 - Tiếng Việt: https://getuniversalconverter.com/vi/
+- Svenska: https://getuniversalconverter.com/sv/
+- Nederlands: https://getuniversalconverter.com/nl/
+- Dansk: https://getuniversalconverter.com/da/
+- Português (Brasil): https://getuniversalconverter.com/pt-BR/
+- Українська: https://getuniversalconverter.com/uk/
+- Čeština: https://getuniversalconverter.com/cs/
+- Română: https://getuniversalconverter.com/ro/
+- Български: https://getuniversalconverter.com/bg/
+- Norsk bokmål: https://getuniversalconverter.com/nb/
+- Bahasa Melayu: https://getuniversalconverter.com/ms/
+- Filipino: https://getuniversalconverter.com/fil/
+- Kiswahili: https://getuniversalconverter.com/sw/

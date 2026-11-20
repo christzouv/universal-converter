@@ -57,6 +57,8 @@ h3 { margin: 0 0 6px; font-size: 1.2rem; }
 .downloads.android .dl-android { order: -1; }
 .downloads.android .dl-android .btn { padding: 14px 28px; font-size: 1.1rem; }
 .downloads.android .dl-win .btn.primary { padding: 10px 20px; font-size: 1rem; }
+/* On a Linux computer (download.js adds .linux, from 3.7): Linux first */
+.downloads.linux .dl-linux { order: -1; }
 .btn.primary.small { padding: 10px 20px; font-size: 1rem; min-width: 190px; text-align: center; }
 
 .points { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 40px; }
