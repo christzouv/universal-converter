@@ -7,12 +7,12 @@ Universal Converter is a free-to-use desktop and mobile app by Christos Tzouvara
 ## What it does
 - Documents & PDF: Convert between PDF, Word, ODT, RTF, TXT, Markdown, HTML, EPUB, PowerPoint and Excel. Turn pages into images and combine several files into one PDF. Fonts, sizes and colours are kept. Make PDFs smaller, to the size you choose. Scans and filled-in forms become editable text and tables, laid out like the page. Tables, also without lines like on bank statements, come into Word as real tables, and old Word (.doc) and PowerPoint (.ppt) files open.
 - Images: Convert between JPG, PNG, WEBP, TIFF, BMP, GIF and ICO. Resize by pixels, percent or file size, combine pictures into a PDF or Word file, and read the text in pictures (OCR). PDFs can be added too: every page becomes a picture.
-- Video: Convert videos between MP4, MKV, WebM, MOV and AVI, and compress them, with AV1, H.265, H.264 or VP9. Trim, crop, rotate and resize, make GIFs, save frames as pictures, or keep just the sound as MP3, M4A, FLAC, WAV, OGG or Opus. With several videos, each one can have its own settings. On Android: MP4, MKV, WebM, MOV or GIF, or the sound as M4A, OGG or WAV; trim, crop, rotate, resize and save frames.
+- Video: Convert videos between MP4, MKV, WebM, MOV and AVI, and compress them, with AV1, H.265, H.264 or VP9. Trim, crop, rotate and resize, make GIFs, save frames as pictures, or keep just the sound as MP3, M4A, AAC, FLAC, WAV, AIFF, OGG, AC-3, MP2, WavPack, MKA, CAF or Opus. With several videos, each one can have its own settings. On Android: MP4, MKV, WebM, MOV or GIF, or the sound as MP3, M4A, AAC, OGG, Opus, FLAC, WAV, AIFF or MKA; trim, crop, rotate, resize and save frames.
 - Excel: Pull tables out of PDFs, scans and photos into Excel or CSV: bank statements, invoices, price lists. Reads Greek, English, Spanish and more than 30 other languages.
 - Sign: Sign PDFs and fill in forms. Type your name in a handwriting style, draw your signature or use a photo of it. The app finds the signature lines by itself, or you click or tap where the signature, initials, date, text or ticks go. Sign many files at once; the originals stay untouched.
 - Uses your graphics card for video when it can: usually 5 to 20 times faster.
 - Drag in whole folders: every file is converted in one go.
-- Tells you when a file belongs in another tab, and takes it there with one click.
+- One screen for every file: add documents, pictures and videos together, and each one gets its own options.
 - Tells you about new versions; on Windows, Mac and Linux it can install them for you, digitally verified.
 - Light and dark look, to match your device.
 
@@ -39,7 +39,7 @@ Interface languages (34 languages): English, Greek, Spanish, Italian, German, Fr
 - [Copy the text from a picture (OCR)](https://getuniversalconverter.com/image-to-text.html): Read the text in photos, screenshots and scans and save it as text or Word, offline. Greek, English and many more languages.
 - [Compress a video without uploading it](https://getuniversalconverter.com/compress-video.html): Make videos smaller on your own device, for free: choose the quality, keep the resolution or shrink it, and use your device's hardware for speed.
 - [Convert videos between MP4, MKV, WebM, MOV and AVI](https://getuniversalconverter.com/video-to-mp4.html): Convert almost any video to MP4, MKV, WebM, MOV or AVI: free, offline, with no size limit.
-- [Save the sound of a video as MP3](https://getuniversalconverter.com/video-to-mp3.html): Extract the audio from videos as MP3, M4A, FLAC, WAV, OGG or Opus on your own device.
+- [Save the sound of a video as MP3](https://getuniversalconverter.com/video-to-mp3.html): Extract the audio from videos as MP3, M4A, AAC, FLAC, WAV, AIFF, OGG, AC-3, MP2, WavPack, MKA, CAF or Opus on your own device.
 - [Make a GIF from a video](https://getuniversalconverter.com/video-to-gif.html): Turn a moment of a video into an animated GIF or WebP, offline and for free.
 - [Pull tables from a PDF into Excel](https://getuniversalconverter.com/pdf-to-excel.html): Turn bank statements, invoices and price lists in PDFs, scans or photos into Excel or CSV, on your own device.
 - [Convert a bank statement PDF to Excel](https://getuniversalconverter.com/bank-statement-to-excel.html): Turn PDF bank statements, including scanned ones, into Excel or CSV for budgeting, bookkeeping and taxes, privately on your own device.
